@@ -10,22 +10,22 @@ sudoku_iddfs.py is to solve it using iterative deepning DFS
 place the file under your working directory, and use the command
 
 to test BFSsudoku.py:
-$ python Sudoku_BFS_test.py
+$ python3.4 Sudoku_BFS_test.py
 
 to test pytest_bt.py:
-$ python sudoku_bt.py
+$ python3.4 sudoku_bt.py
 
 to test pytest_dfs.py:
-$ python sudoku_dfs.py
+$ python3.4 sudoku_dfs.py
 
 to pytest_iddfs.py:
-$ python sudoku_iddfs.py
+$ python3.4 sudoku_iddfs.py
 
 to pytest_iddfs.py:
-$ python sudoku_iddfs.py
+$ python3.4 sudoku_iddfs.py
 
 to test all search algorithm together: 
-$ python test.py
+$ python3.4 test.py
 
 
 
